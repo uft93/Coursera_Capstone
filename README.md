@@ -8,7 +8,7 @@ My tasks for this project were:
 
 - Scrape the Munich city portal for the district name - postcode pairs
 - Make calls to the Google Maps API to create a DataFrame with district names, postcodes, and their latitudes and longitudes
-- Create Folium maps to visualize the districts
+- Create interactive Folium maps to visualize the venues in districts
 - Clean up the DataFrame
 - Make calls to the FourSquare API to retrieve the venues in each district
 - Try out different distance metrics and algorithms (KDTree vs. BallTre) to determine cluster radii

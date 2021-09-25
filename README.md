@@ -1,6 +1,6 @@
-# Coursera_Capstone
+# Clustering the Districts of Munich
 
-This was my personal final project for Coursera IBM Data Science specialization. 
+This was my first personal final project for Coursera IBM Data Science specialization. 
 
 The project revolves around using unsupervised learning to cluster the neighborhoods of Munich in a way that makes sense.
 

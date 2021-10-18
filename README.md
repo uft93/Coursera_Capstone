@@ -1,6 +1,6 @@
 # Clustering the Districts of Munich
 
-This was my first personal final project for Coursera IBM Data Science specialization. 
+This was my first personal final project for Coursera IBM Data Science specialization. I eventually ended up doing another project for that specialization but decided to keep this one as this has been my longest and toughest project so far. Unsupervised learning always presents a challenge.
 
 The project revolves around using unsupervised learning to cluster the neighborhoods of Munich in a way that makes sense.
 

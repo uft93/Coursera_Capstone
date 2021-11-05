@@ -15,8 +15,8 @@ My tasks for this project were:
 - Explore the data through visualizations and rankings
 - Cluster the data with KMeans to obtain a meaningful represantation of the city
 
+Note: Please view the notebooks through this link to render the Folium maps: https://nbviewer.jupyter.org/
 
 ![shutterstock_3061137](https://user-images.githubusercontent.com/64493571/134774121-4331196c-667e-4961-99f4-39a54671aac3.jpg)
 
 
-Note: Please view the notebooks through this link to render the Folium maps: https://nbviewer.jupyter.org/
